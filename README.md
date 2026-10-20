@@ -20,7 +20,7 @@
 
 ## ✨ What it tests
 
-The target is [SwiftTranslator](https://www.swifttranslator.com/), which converts Romanised Sinhala ("Singlish") into Sinhala script as you type. Each test types a sentence into the app and asserts the expected Sinhala output appears.
+The target is [SwiftTranslator](https://swifttranslator.com/), which converts Romanised Sinhala ("Singlish") into Sinhala script as you type. Each test types a sentence into the app and asserts the expected Sinhala output appears.
 
 | Type | Count | Examples |
 |---|---|---|
